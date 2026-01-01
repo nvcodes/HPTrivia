@@ -1,5 +1,4 @@
 # Xcode user-specific data
-xcuserdata/
+*.xcuserstate
 DerivedData/
 .DS_Store
-*/xcuserdata/
