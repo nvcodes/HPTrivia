@@ -15,3 +15,17 @@ struct HPTriviaApp: App {
         }
     }
 }
+
+/**
+ App Development Plan:
+  - Game Intro Screen
+  - Gameplay Screen
+  - Game logic (questions, scores, etc)
+  - Celebration
+  - Audio
+  - Animations
+  - In App Purchases
+  - Instructions screen
+  - Books
+  - Persist scores
+**/
