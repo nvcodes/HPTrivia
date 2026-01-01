@@ -61,4 +61,5 @@ struct Instructions: View {
 
 #Preview {
     Instructions()
+        .preferredColorScheme(.dark)
 }
